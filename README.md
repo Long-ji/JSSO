@@ -5,10 +5,10 @@ Published in IEEE Transactions on Geoscience and Remote Sensing 24
 
 ## Run code:<br>
 demo.m
-The code may produce slightly different results in MATLAB 2014 and MATLAB 2021 versions.
+
 
 ## Contact :<br>
-If you have any questions, please feel free to contact me at jian_long@nudt.edu.cn
+If you have any questions, please feel free to contact me at jian_long@nudt.edu.cn. The code may produce slightly different results in MATLAB 2014 and MATLAB 2021 versions.
 
 ## Citation :<br>
 ```
